@@ -11,7 +11,7 @@ github_repo: "https://github.com/yupeifengyannis/yupeifengyannis.github.io.git" 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "扭伤了脖子，既不能往左看，也不能往右看，只能够向前看"
+sidebar-about-description: "不务正业的B哥"
 sidebar-avatar: /img/about-Yannis.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
