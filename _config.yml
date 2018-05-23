@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: yupeifengyannis@foxmail.com
 description: "深度菜鸡"
 keyword: "Yannis, Yannis Blog, 培峰的博客, yupeifeng, 虞培峰, 深度学习，机器学习，C++"
-url: "http://yupeifengyannis.github.io"          # your host, for absolute URL
+url: "https://yupeifengyannis.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yupeifengyannis/yupeifengyannis.github.io.git" # you code repository
 
