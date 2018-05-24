@@ -115,3 +115,5 @@ clean:
 	rm $(obj) $(target) -rf
 ```
 
+[代码链接](https://github.com/yupeifengyannis/misc/tree/master/makefile)
+
