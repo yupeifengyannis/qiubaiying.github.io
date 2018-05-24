@@ -70,6 +70,7 @@ CPPFLAGS= -I
 $(target):$(obj)
 	$(CC) $^ -o $@ $(CPPFLAGS) $(include) 
 #下面的时模式匹配规则
+
 %.o:%.cc
 	$(CC) -c $< -o $@ $(CPPFLAGS) $(include)
 ```
@@ -108,6 +109,7 @@ $(target):$(obj)
 	$(CC) -c $< -o $@ $(CPPFLAGS) $(include)
 
 #伪目标
+
 .PHONY:clean
 clean:
 	rm $(obj) $(target) -rf
