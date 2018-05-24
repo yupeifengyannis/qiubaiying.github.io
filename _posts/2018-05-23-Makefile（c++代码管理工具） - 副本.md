@@ -3,7 +3,7 @@ layout:     post
 title:      Makefile（c++代码管理工具）
 subtitle:   
 date:       2018-05-23
-author:     BY
+author:     Yannis
 header-img: 
 catalog: true
 tags:	
