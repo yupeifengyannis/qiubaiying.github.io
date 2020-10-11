@@ -46,7 +46,7 @@ TEST_F(UtilTest, TestAddDeathTest){
 
 然后我通过lcov这个工具来收集相应的代码覆盖率，但是却看到下图代码覆盖率显示面板上并没有覆盖到这两行代码。
 
-![image-20201011170826378](/home/yupeifeng/.config/Typora/typora-user-images/image-20201011170826378.png)
+![image-20201011170826378](https://github.com/yupeifengyannis/yupeifengyannis.github.io/blob/master/_posts/utils/coverage.png)
 
 # 分析与解决
 
